@@ -43,7 +43,7 @@ Visit our repository and request access to contribute.
 Tested on macOS Big Sur
 
 ## Questions
-Report any discovered issues here: issues@readmegenerator.com<br />
+Report any discovered issues here: issues@adlsoftware.com<br />
 <br />
 
 ## Contact
