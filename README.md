@@ -1,9 +1,10 @@
-<h1 align="center">NoSQL - Social Media API</h1>
+<h1 align="center">PWA - Budget Tracker</h1>
   
 ![badge](https://img.shields.io/badge/license-MIT-orange)<br />
 
 ## Description
-Create users, add friends, add thoughts and reactions to interact with other social media users on the server.
+Track your expenditures easily with the Budget Tracker App, mark your changes online or offline! Also, set the app to your devices homescreen!
+
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
@@ -19,16 +20,16 @@ Create users, add friends, add thoughts and reactions to interact with other soc
 ## Installation
 > execute in terminal: npm install<br />
 > execute in terminal: npm start<br />
+> Or, visit our deployed Heroku link.<br />
 
 ## Usage
-Enjoy your time on your devices with friends that could be located anywhere in the world!
+Simply enter the name of your expense, the amount and whether it is a debit or a credit and the app does the rest of the work for you!
 ## Screenshot
-[!Screenshot](/public/images/screenshot.png)<br />
-Click on the GIF to redirect to HD video.
+![Homepage Screenshot](./public/images/screenshot.png)
 
 
 ## Deployed
-https://github.com/alovatt83/nosql-socialmedia
+https://pwa-budget-tracker-uoft.herokuapp.com/
 
 ## License
 ![badge](https://img.shields.io/badge/license-MIT-orange)
