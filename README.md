@@ -3,7 +3,7 @@
 ![badge](https://img.shields.io/badge/license-MIT-orange)<br />
 
 ## Description
-Track your expenditures easily with the Budget Tracker App, mark your changes online or offline! Also, set the app to your devices homescreen!
+Track your expenditures easily with the Budget Tracker App, make your changes online or offline! Also, set the app to your devices homescreen!
 
 ## Table of Contents
 - [Description](#description)
